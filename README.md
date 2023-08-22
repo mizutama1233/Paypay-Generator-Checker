@@ -8,7 +8,7 @@ main.pyよりももう片方の方がスレッドに対応しているので多�
 なんかあったら
 
 Discord: 
-- [x] https://discord.gg/d97mY76SD4
+- [x] https://discord.gg/3s9g8RFhMz
 - [x] .kap210
 
 にて連絡を
