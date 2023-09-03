@@ -5,6 +5,9 @@ Paypayの送金リンクのジェネレーターとチェッカー
 
 main.pyよりももう片方の方がスレッドに対応しているので多分速い
 
+サイト作った
+https://tweb.web.app/Projects/plink/
+
 なんかあったら
 
 Discord: 
