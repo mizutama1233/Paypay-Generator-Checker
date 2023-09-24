@@ -1,3 +1,4 @@
+# 転売ヤーに注意
 # Paypay-Generator-Checker
 Paypayの送金リンクのジェネレーターとチェッカー
 
