@@ -1,4 +1,7 @@
 # 転売ヤーに注意
+
+![:name](https://count.getloli.com/get/@:mizutama1233)
+
 # Paypay-Generator-Checker
 Paypayの送金リンクのジェネレーターとチェッカー
 
